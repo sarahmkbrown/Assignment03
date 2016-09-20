@@ -1,0 +1,92 @@
+ul{
+        list-style-type: none;
+}
+
+.caption{
+ font-family: Muli, sans-serif;
+ margin-top: 0em;
+ font-style: italic;
+ font-weight: lighter;
+ font-size: .8em;
+}
+
+.blog_header{
+    font-family: Muli, sans-serif;
+    margin-top: 2em;
+    border-bottom: solid 1px #000000;
+
+}
+
+.nav_span {
+    margin-right: 4em;
+}
+
+.read_more{
+	font-style: italic;
+
+}
+
+#banner{
+	background-color: #000000;
+	color: #ffffff;
+	width: 100%;
+}
+
+#banner > h1 {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+#container{
+	width: 100%;
+}
+
+#content {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+#nav_bar {
+	background-color: #e6f0f2;
+    font-family: Muli, sans-serif;
+   	width: 100%;
+}
+
+#nav_bar > ul {
+   	margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    padding-left: 0em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+#nav_bar a:link {
+	text-decoration: none;
+    color: #000000;
+}
+#nav_bar a:hover {
+    color: #2c7bb6;
+}
+
+#title{
+	font-family: "Courier New", Courier, monospace;
+	font-weight: lighter;
+}
+
+#subhead{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1em;
+	font-weight: lighter;
+}
+
+
+
